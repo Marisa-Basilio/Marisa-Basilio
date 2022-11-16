@@ -1,12 +1,9 @@
 <<<<<<< HEAD
-### olá! Eu sou a marisa Basílio 👋
-### Sou apaixonada pela tecnologia, estudante de programação Full Stack e Automação web. <br>
-<br>
-
+### olá! Eu sou a Marisa Basílio 👋
+### Sou estudante de programação Full Stack e Automação web. 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marisa-basilio/) 
 
-[![Facebook](https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white)](https://www.facebook.com/marisa.basilio.52)
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Marisa-Basilio/portifolio)
 
