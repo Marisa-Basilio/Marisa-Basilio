@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 ### olá! Eu sou a Marisa Basílio 👋
+### sou Engenharia de Petróleo de formação, mas nunca atuei na área e atualmente trabalho como Operadora de Loja.
 ### Sou estudante de programação Full Stack e Automação web. 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marisa-basilio/) 
